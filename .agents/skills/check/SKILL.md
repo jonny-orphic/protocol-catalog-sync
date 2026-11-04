@@ -1,3 +1,7 @@
+---
+name: check
+---
+
 Please run the steps below in this repo and collect the outputs. This is a fixed script, so follow it exactly.
 
 **Rules**
